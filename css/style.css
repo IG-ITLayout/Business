@@ -485,7 +485,7 @@ input[type="number"]::-webkit-inner-spin-button {
 
 .line {
   display: block;
-  width: 329px;
+  max-width: 329px;
   height: 1px;
   background-color: #e2e9f0;
   margin: 33px auto 16px auto;
@@ -745,7 +745,7 @@ iframe {
 
 .footer__line {
   margin: 57px auto 68px auto;
-  width: 1170px;
+  max-width: 1170px;
   height: 1px;
   background-color: #e3e7ec;
 }
