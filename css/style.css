@@ -729,7 +729,7 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 
 iframe {
-  width: 100%;
+  max-width: 100%;
   height: 100%;
   left: 0;
   top: 0;
@@ -896,10 +896,9 @@ span:hover {
     opacity: 0;
     overflow: hidden;
     position: absolute;
-    right: 15%;
     transform: translate(200%, 59%);
     background-color: #ffc155;
-    width: 100%;
+    max-width: 100%;
     z-index: 10;
     color: #ffffff;
     transition: all ease-in-out 0.4s;
