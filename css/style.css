@@ -896,7 +896,7 @@ span:hover {
     opacity: 0;
     overflow: hidden;
     position: absolute;
-    transform: translate(200%, 59%);
+    transform: translate(-153%, 59%);
     background-color: #ffc155;
     max-width: 100%;
     z-index: 10;
@@ -1010,7 +1010,7 @@ span:hover {
     padding: 17.3px 0;
   }
   .show-menu {
-    transform: translate(15%, 58%);
+    transform: translate(0%, 58%);
   }
   .request__slider {
     display: none;
