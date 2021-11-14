@@ -1010,7 +1010,7 @@ span:hover {
     padding: 17.3px 0;
   }
   .show-menu {
-    transform: translate(0%, 58%);
+    transform: translate(15%, 58%);
   }
   .request__slider {
     display: none;
